@@ -1,2 +1,2 @@
 # AERA2025
-Computational Educational Research: An Exploratory Investigation
+Computational Educational Research: An Exploration of Instructional Frameworks
