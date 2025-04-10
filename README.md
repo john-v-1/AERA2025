@@ -64,7 +64,7 @@
     </li>
     <li>
     <a href="https://ccl.northwestern.edu/netlogo/" target="_blank">
-     View the Netlogo website 
+     Visit the Netlogo website 
     </a>
   </li>
 
