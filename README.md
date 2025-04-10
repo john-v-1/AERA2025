@@ -56,13 +56,14 @@
     <li>Link to our AERA 2025 paper – coming soon!</li>
   </ul>
 
-  <h2>Multi-Mediator Models of Learning and Netlogo</h2>
+  <h2>Multi-Mediator Models of Learning & Netlogo</h2>
   <ul>
     <li>
       <a href="https://mmm.ucsd.edu/mmm.html" target="_blank">
         Explore Multi-Mediator Models of Learning 
       </a>
     </li>
+    <li>
     <a href="https://ccl.northwestern.edu/netlogo/" target="_blank">
      View the Netlogo website 
     </a>
