@@ -9,6 +9,7 @@
       font-family: Arial, sans-serif;
       margin: 2em;
       line-height: 1.6;
+      background-color: #ffffff;
     }
     h1 {
       color: #003366;
