@@ -14,7 +14,6 @@
 <ul>
   <li>Link to our AERA 2025 paper - coming soon!&nbsp; &nbsp;</li>
 </ul>
-
 <h2>Multi-Mediator Models of Learning</h2>
 <ul>
   <li>  <a href="https://mmm.ucsd.edu/mmm.html" target="_blank"> Explore&nbsp;Multi-Mediator Models of Learning&nbsp; </a> </li></ul>
