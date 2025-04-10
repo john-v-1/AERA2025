@@ -60,7 +60,7 @@
   <ul>
     <li>
       <a href="https://mmm.ucsd.edu/mmm.html" target="_blank">
-        Explore Multi-Mediator Models of Learning
+        Explore Multi-Mediator Models of Learning 
       </a>
     </li>
   </ul>
