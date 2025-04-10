@@ -65,15 +65,7 @@
     </li>
   </ul>
 
-  <h2>NetLogo</h2>
-  <ul>
-    <li>
-      Access NetLogo via the NetLogo website:&nbsp;
-      <a href="https://ccl.northwestern.edu/netlogo/" target="_blank">
-        https://ccl.northwestern.edu/netlogo/
-      </a>
-    </li>
-  </ul>
+
 
 </body>
 </html>
