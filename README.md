@@ -53,10 +53,10 @@
 <h2>AERA 2025 Paper</h2>
 <ul>
   <li>
-    View our AERA 2025 paper:
-    <a href="Vulic et al. AERA 2025.pdf" target="_blank">
-      Vulic, J., Jacobson, M. J., & Levin, J. A. (2025, April). <i>Computational educational research: An exploration of instructional frameworks</i> [Conference presentation]. American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
-    </a>
+    View our AERA 2025 paper:&nbsp;
+   
+      Vulic, J., Jacobson, M. J., & Levin, J. A. (2025, April).  <a href="Vulic et al. AERA 2025.pdf" target="_blank"><i>Computational educational research: An exploration of instructional frameworks</i>    </a> [Conference presentation]. American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
+
   </li>
 </ul>
 
