@@ -52,7 +52,7 @@
 
   <h2>AERA 2025 Paper</h2>
   <ul>
-    <li><a href="Vulic et al. AERA 2025.pdf" target="_blank"Link to our AERA 2025 paper</a> </li>
+    <li><a href="Vulic et al. AERA 2025.pdf"target="_blank"View our AERA 2025 paper</a> </li>
 
   </ul>
 
